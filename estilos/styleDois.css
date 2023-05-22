@@ -49,6 +49,7 @@ section#icones img{
     border-radius: 50%;
     padding: 11px;
     box-shadow: 2px 2px 5px black;
+    box-sizing: border-box;
     
 }
 
